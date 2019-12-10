@@ -1,0 +1,15 @@
+{
+  "title": "Addons",
+    "url": "https://yadi.sk/d/STRVuxCTv5EfvA",
+    "description": "Здесь предоставлен список популярных и проверенных аддонов которые работают на данном сервере(список будет постоянно пополнятся)",
+  "fields": [
+    {
+      "name": "EPGP и EPGP Lootmaster",
+      "value": "[EPGP и EPGP Lootmaster](https://yadi.sk/d/gfbcd0IpSEoQAw) - предназначен для раздела лута в рейде в составе ги! (для просмотра очков EPGP введите команду /epgp)"
+    },
+    {
+      "name": "DBM",
+      "value": "[DBM](https://yadi.sk/d/Y9bQa3oodp431g) - предназначен для отслеживания абилок босса и помогает вам не тупить в рейде"
+    }
+  ]
+}
