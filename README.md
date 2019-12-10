@@ -1,0 +1,2 @@
+# rhoz
+discord bot
